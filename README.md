@@ -1,4 +1,6 @@
-# mastermind
+# Mastermind
+
+A small verison of the mastermind game.
 
 ## Project setup
 ```
